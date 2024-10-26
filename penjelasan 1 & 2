@@ -1,0 +1,17 @@
+PENJELASAN CODE 1
+
+1. Input: Program meminta input dari pengguna untuk tiga bilangan, yaitu 
+𝐴,B, dan C.
+2. Kondisi Pertama: Program memeriksa apakah 
+A lebih besar dari B. Jika ya, maka program lanjut memeriksa apakah A lebih besar dari C. Jika benar, A adalah yang terbesar, jika tidak, maka C yang terbesar.
+3. Kondisi Kedua: Jika A tidak lebih besar dari 𝐵, maka program memeriksa apakah B lebih besar dari C. 
+4. Jika ya, B yang terbesar, jika tidak, C adalah yang terbesar.
+5. Output: Setelah perbandingan selesai, program menampilkan bilangan terbesar.
+
+PENJELASAN CODE 2
+
+1. Program meminta pengguna untuk menginput jumlah bilangan (N).
+2. Nilai MAX diinisialisasi menjadi 0.
+3. Program akan melakukan loop sebanyak N kali, di mana setiap iterasi meminta input bilangan dari pengguna.
+4. Pada setiap iterasi, program mengecek apakah bilangan yang diinputkan lebih besar dari MAX. Jika iya, nilai MAX akan diperbarui.
+5. Setelah semua input selesai, program menampilkan bilangan terbesar.
